@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+import 0-square.py
 """Define a class Square."""
 
 
